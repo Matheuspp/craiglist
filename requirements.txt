@@ -53,7 +53,7 @@ sqlparse==0.3.1
 testtools==2.4.0
 traceback2==1.4.0
 unittest2==1.1.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==0.9.6
 whitenoise==5.0.1
 WTForms==2.0.2
