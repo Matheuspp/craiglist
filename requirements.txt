@@ -31,7 +31,7 @@ idna==2.9
 itsdangerous==0.24
 Jinja2==2.7.3
 linecache2==1.0.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==0.23
 meson==0.54.1
 passlib==1.6.2
